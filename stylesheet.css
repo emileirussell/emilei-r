@@ -26,6 +26,10 @@ nav li {
 nav ul li {
     display: inline-block;
     margin: 10px;
+}
+nav {
+    width:fit-content
+}
 
 /* Footer */
 
