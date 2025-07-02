@@ -21,7 +21,7 @@ title {
     margin-right: 10px;
     color: black;
 }
-.nav li a:link a:active a:hover a:visited{
+.nav li a:link a:active a:hover{
     margin: 10px;
     display: inline;
     color: black;
