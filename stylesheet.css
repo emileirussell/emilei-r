@@ -6,12 +6,10 @@ dark gray: #a8a8a8
 
 */
 
-header h1 {
-    font-size: 32px;
+#title {
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: auto;
 }
-
 /* Nav */
 
 .nav ul{
