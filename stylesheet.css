@@ -43,7 +43,7 @@ footer li {
 
 footer {
     background-color: #a8a8a8;
-    position: fixed;
+    position: sticky;
     width:fit-content
 
 }    
