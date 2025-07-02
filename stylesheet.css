@@ -21,7 +21,6 @@ dark gray: #a8a8a8
 .nav li {
     margin: 10px;
     color: black;
-    float:none;
 }
 nav ul li {
     display: inline-block;
