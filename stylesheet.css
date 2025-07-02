@@ -6,9 +6,7 @@ dark gray: #a8a8a8
 
 */
 
-#title {
-    text-align: center;
-}
+
 
 /* Nav */
 
@@ -26,6 +24,9 @@ header nav li {
 header nav ul li {
     display: inline-block;
     margin: 10px;
+}
+header h1 {
+    text-align: center;
 }
 
 /* Footer */
