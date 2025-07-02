@@ -39,11 +39,14 @@ footer ul {
 }
 footer li {
     margin: 10px;
+    display: inline-block;
 }
 
 footer {
     background-color: #a8a8a8;
     position: fixed;
+    width:fit-content
+
 }    
 
 /* home */
