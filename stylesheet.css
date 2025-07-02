@@ -44,7 +44,7 @@ footer li {
 footer {
     background-color: #a8a8a8;
     position:fixed;
-    width:auto;
+    width:fit-content;
 
 }    
 
