@@ -21,19 +21,10 @@ title {
     margin-right: 10px;
     color: black;
 }
-.nav li {
+.nav li a:link a:active a:hover{
     margin: 10px;
     display: inline;
     color: black;
-}
-a:link {
-    color:black;
-}
-a:active {
-    color: black;
-}
-a:hover {
-    color:rgb(0, 0, 0);
 }
 footer ul {
     list-style: none;
