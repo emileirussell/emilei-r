@@ -24,9 +24,12 @@ title {
 }
 .nav li {
     margin: 10px;
-    display: inline;
     color: black;
-    text-align: center;
+    float:none;
+}
+nav ul li {
+    display: inline-block;
+    margin: 10px;
 }
 footer ul {
     list-style: none;
