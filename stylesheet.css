@@ -40,9 +40,9 @@ footer ul {
 footer li {
     margin: 10px;
 }
-
-footer {
-    background-color: #a8a8a8;
+footer ul li {
+    display: inline-block;
+    margin: 10px;
 }
 
 /* home */
@@ -64,9 +64,8 @@ footer {
 
 #earth {
     margin:10px;
-    float: left;
-    height:150px;
-    width:100px;
+    padding:10px;
+    size: 200px 100px;
 }
 body {
     background-color: #aec6ae;
