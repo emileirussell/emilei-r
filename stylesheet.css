@@ -49,6 +49,9 @@ footer {
     display: blo;
     background-color: #cecfce;
 }
+#About-Me h3 {
+    text-align: center;
+}
 
 #earth {
     height: 200px;
