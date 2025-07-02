@@ -50,11 +50,10 @@ footer {
     text-align: left;
     display: block;
     font-size: 12pt;
-    position:static;
-    /*margin-top: 50px;
-    margin-left: 200px;
-    margin-right: 200px;
-    margin-bottom: 100px;*/
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: auto;
+    margin-bottom: 100px;
 }
 #About-Me h3 {
     text-align: center;
