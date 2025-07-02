@@ -50,6 +50,7 @@ footer {
     text-align: left;
     display: block;
     font-size: 20pt;
+    position:static;
     /*margin-top: 50px;
     margin-left: 200px;
     margin-right: 200px;
