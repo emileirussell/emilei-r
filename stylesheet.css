@@ -43,14 +43,14 @@ footer {
 
 /* main page specific elements */
 
-#About-Me {
+#About-Me p {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: left;
-    display: blo;
-    background-color: #cecfce;
+    display: block;
 }
 #About-Me h3 {
     text-align: center;
+    background-color: #cecfce;
 }
 
 #earth {
