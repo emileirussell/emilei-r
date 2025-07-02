@@ -21,9 +21,18 @@ title {
     margin-right: 10px;
     color: black;
 }
-.nav li a:link a:active a:hover{
+.nav li {
     margin: 10px;
     display: inline;
+    color: black;
+}
+nav li a:hover {
+    color: #cecfce;
+}
+nav li a:visited {
+    color: #768b7d
+}
+nav li a:active {
     color: black;
 }
 footer ul {
