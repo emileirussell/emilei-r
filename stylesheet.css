@@ -33,9 +33,15 @@ nav {
 
 /* Footer */
 
+footer {
+    position: fixed;
+    padding-top: 5px;
+}
+
 footer ul {
     list-style: none;
     font-family: 'Times New Roman', Times, serif;
+    text-align: center;
 }
 footer li {
     margin: 10px;
