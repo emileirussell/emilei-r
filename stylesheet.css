@@ -71,6 +71,7 @@ footer ul li {
 body {
     background-color: #aec6ae;
     padding: 20px;
+    position: relative;
 }
 
 /* contact */
