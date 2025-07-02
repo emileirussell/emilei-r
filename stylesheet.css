@@ -26,15 +26,6 @@ title {
     display: inline;
     color: black;
 }
-nav li a:hover {
-    color: #cecfce;
-}
-nav li a:visited {
-    color: #768b7d
-}
-nav li a:active {
-    color: black;
-}
 footer ul {
     list-style: none;
     font-family: 'Times New Roman', Times, serif;
