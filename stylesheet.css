@@ -72,6 +72,7 @@ body {
     background-color: #aec6ae;
     padding: 20px;
     position: relative;
+    min-height: 100vh;
 }
 
 /* contact */
