@@ -48,6 +48,8 @@ footer {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: left;
     display: block;
+    margin: 100px;
+    border: 50px;
 }
 #About-Me h3 {
     text-align: center;
