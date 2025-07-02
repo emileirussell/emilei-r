@@ -1,3 +1,11 @@
+/* color codes for website elements
+
+green: #aec6ae
+grey: #cecfce
+dark gray: #a8a8a8
+
+*/
+
 title {
     font-size: 32px;
     text-align: center;
@@ -10,10 +18,14 @@ title {
     list-style: none;
     margin-right: 10px;
     color: black;
+    background-color: #aec6ae;
 .nav li {
     margin: 10px;
     display: inline;
     color: black;
+}
+a:href {
+    color: white;
 }
 
 }
@@ -28,7 +40,9 @@ footer li {
     margin: 10px;
 }
 
-    
+footer {
+    background-color: #a8a8a8;
+}    
 
 /* main page specific elements */
 
@@ -36,12 +50,16 @@ footer li {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: left;
     display: block;
+    background-color: #cecfce;
 }
 
 #earth {
     height: 200px;
     width: 100px;
     float: left;
+}
+body {
+    background-color: #aec6ae;
 }
 
 /* contact me specific elements*/
@@ -50,6 +68,11 @@ body h3 {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     margin: auto;
+}
+body p {
+    display: block;
+    float: left;
+    margin: 20px;
 }
 #GenInq {
     font-family: 'Times New Roman', Times, serif;
