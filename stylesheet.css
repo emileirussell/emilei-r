@@ -27,7 +27,7 @@ header nav ul li {
 }
 head img {
     width: 100v;
-    height: 75px;
+    height: 200px;
 }
 
 /* Footer */
@@ -70,6 +70,9 @@ footer ul li {
 
 body {
     background-color: #aec6ae;
+    padding: 20px;
+    position: relative;
+    min-height: 100vh;
 }
 
 /* contact */
