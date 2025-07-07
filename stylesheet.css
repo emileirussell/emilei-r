@@ -34,6 +34,8 @@ head img {
 
 footer {
     position:absolute bottom;
+    background-color: #cecfce;
+    height: 50px;
 }
 
 footer ul {
