@@ -33,7 +33,7 @@ head img {
 /* Footer */
 
 footer {
-    position:fixed bottom;
+    position:absolute bottom;
     background-color: #cecfce;
     height: 50px;
 }
