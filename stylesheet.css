@@ -49,6 +49,12 @@ footer ul li {
 
 /* home */
 
+#Welcome h1 {
+
+    text-align: center;
+    font-style: italic;
+}
+
 #About-Me p {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: left;
