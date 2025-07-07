@@ -53,6 +53,7 @@ footer ul li {
 
     text-align: center;
     font-style: italic;
+    float: none;
 }
 
 #About-Me p {
