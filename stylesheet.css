@@ -28,6 +28,7 @@ header nav ul li {
 head img {
     width: 100vw;
     height: 50px;
+    align-items: center;
 }
 
 /* Footer */
