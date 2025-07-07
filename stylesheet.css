@@ -97,7 +97,6 @@ body p {
 /*Portfolio*/
 
 .column img {
-  vertical-align: middle;
   max-width: 100px;
   max-height: 100px;
 }
