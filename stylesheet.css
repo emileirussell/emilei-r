@@ -96,8 +96,8 @@ body p {
 
 /*Portfolio*/
 
-#port img table td img{
-
-    max-width: fit-content;
-    max-height: fit-content;
-}
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(8, 5vw);
+    grid-gap: 15px;
