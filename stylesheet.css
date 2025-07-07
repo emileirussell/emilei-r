@@ -96,3 +96,8 @@ body p {
 }
 
 /*Portfolio*/
+
+.gallery #gal1
+{
+    size: 10px;
+}
