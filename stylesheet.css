@@ -55,13 +55,16 @@ footer ul li {
     text-align: left;
     display: block;
     font-size: 12pt;
-    margin-top: 50px;
+    margin-top: 10px;
     margin-left: 20px;
     margin-right: auto;
 }
 #About-Me h3 {
     background-color: #cecfce;
     text-align: center;
+}
+#About-Me {
+    position: relative;
 }
 
 body {
