@@ -32,6 +32,10 @@ head img {
 
 /* Footer */
 
+footer {
+    position:absolute bottom;
+}
+
 footer ul {
     list-style: none;
     font-family: 'Times New Roman', Times, serif;
@@ -62,6 +66,10 @@ footer ul li {
 }
 #About-Me {
     position: relative;
+}
+
+body {
+    background-color: #aec6ae;
 }
 
 /* contact */
