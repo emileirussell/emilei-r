@@ -32,7 +32,7 @@ header h1 {
 /* Footer */
 
 footer {
-    position: fixed;
+    position:absolute bottom;
     padding-top: 600px;
 }
 
