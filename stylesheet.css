@@ -33,15 +33,19 @@ head img {
 
 /* Footer */
 
+footer ul {
+
+     list-style: none;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
 footer li {
     margin: 10px;
 }
 footer ul li {
     display: inline-block;
     margin: 10px;
-    list-style: none;
-    font-family: 'Times New Roman', Times, serif;
-    text-align: center;
 }
 
 /* home */
