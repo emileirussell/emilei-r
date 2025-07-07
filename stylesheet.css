@@ -32,11 +32,6 @@ head img {
 
 /* Footer */
 
-footer {
-    position:absolute bottom;
-    background-color: #cecfce;
-    height: 50px;
-}
 
 footer ul {
     list-style: none;
