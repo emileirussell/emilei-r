@@ -25,7 +25,7 @@ header nav ul li {
     display: inline-block;
     margin: 10px;
 }
-header img {
+head img {
     max-width:max-content;
     height: 200px;
 }
