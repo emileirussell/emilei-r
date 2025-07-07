@@ -96,19 +96,8 @@ body p {
 
 /*Portfolio*/
 
-.row {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 2px;
-}
-
-.column {
-  flex: 10%;
-  max-width: 80%;
-  padding: 2px;
-}
-
 .column img {
   vertical-align: middle;
-  width: 20%;
+  max-width: 100px;
+  max-height: 100px;
 }
