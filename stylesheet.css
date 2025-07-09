@@ -122,10 +122,15 @@ footer ul li {
 .contactform {
     text-align: left;
     align-items: left;
+    align-content: center;
     background-color: #aec6ae;
     box-shadow: inset;
     width: 500px;
     border-radius: 15px;
+    padding: 10px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
 }
 
 /*Portfolio*/
