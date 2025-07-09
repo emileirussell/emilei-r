@@ -12,10 +12,10 @@ body {
     min-height: 100vh;
 }
 header .banner {
-    min-width: 1000px;
     margin: 10px;
     border-radius: 15px;
-    align-items: center;
+    align-content: center;
+    width: max-content;
 }
 /* Nav */
 
