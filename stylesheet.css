@@ -115,7 +115,7 @@ footer ul li {
 
 /*Services*/
 
-section #servicestable {
+#servicestable {
 
     align-self: center;
     background-color: #aec6ae;
@@ -123,11 +123,11 @@ section #servicestable {
     padding: 10px;
     
 }
-section #servicestable th {
+#servicestable th {
     text-align: center;
     font-size: larger;
 }
-section #servicetable td {
+#servicetable td {
 
     text-align: center;
 }
