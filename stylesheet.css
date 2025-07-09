@@ -11,20 +11,17 @@ body {
     padding: 20px;
     min-height: 100vh;
 }
-header .banner img {
-    align-self: center;
-    align-content: center;
-}
-header .banner {
-    margin: 10px;
-    border-radius: 15px;
-    text-align: center;
-    background-color: #aec6ae;
-}
 header {
     max-height: 300px;
     max-width: max-content;
 }
+header #banner {
+
+    align-self: center;
+    margin: 10px;
+    margin-bottom: 5px;
+}
+
 /* Nav */
 
 .nav nav {
