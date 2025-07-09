@@ -121,10 +121,15 @@ section #servicestable {
     background-color: #aec6ae;
     border: none;
     padding: 10px;
+    
 }
 section #servicestable th {
-
+    text-align: center;
     font-size: larger;
+}
+section #servicetable td {
+
+    text-align: center;
 }
 
 /* contact */
