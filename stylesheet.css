@@ -39,6 +39,15 @@ header .banner {
 
     margin: 10px;
     margin-top: 10px;
+    size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.nav nav li a {
+    color:black;
+}
+.nav nav li a:hover {
+    background-color: #cecfce;
+    color: black;
 }
 .nav nav ul li {
 
