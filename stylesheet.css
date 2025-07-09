@@ -14,8 +14,9 @@ body {
 header .banner {
     margin: 10px;
     border-radius: 15px;
-    align-content: center;
+    text-align: center;
     width: max-content;
+    background-color: #aec6ae;
 }
 /* Nav */
 
