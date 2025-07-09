@@ -25,9 +25,9 @@ header {
     width: auto;
 
 }
-header img #banner {
+header img {
 
-    align-self: center;
+    text-align: center;
     margin: 10px;
     margin-bottom: 5px;
 }
