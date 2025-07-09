@@ -9,12 +9,10 @@ dark gray: #a8a8a8
 body {
     background-color: #aec6ae;
     padding: 20px;
-    position: relative;
     min-height: 100vh;
 }
 header .banner {
     width:fit-content;
-    height: 200px;
     margin: 10px;
     border-radius: 15px;
 }
