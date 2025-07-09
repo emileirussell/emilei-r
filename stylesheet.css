@@ -12,7 +12,7 @@ body {
     position: relative;
     min-height: 100vh;
 }
-.banner header img{
+header {
     width: auto;
     height: 250px;
     margin: 10px;
