@@ -17,6 +17,9 @@ body {
 .nav nav {
 
     background-color: #cecfce;
+    height: 50px;
+    border-radius: 25px;
+    
 }
 
 .nav nav ul {
