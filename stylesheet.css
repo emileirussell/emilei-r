@@ -12,9 +12,9 @@ body {
     min-height: 100vh;
 }
 header .banner {
-    width:fit-content;
     margin: 10px;
     border-radius: 15px;
+    align-items: center;
 }
 /* Nav */
 
