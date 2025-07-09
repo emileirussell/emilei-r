@@ -23,6 +23,11 @@ header img #banner {
     margin: 10px;
     margin-bottom: 5px;
 }
+#Welcome h1 {
+
+    text-align: center;
+    font-style: italic;
+}
 
 /* Nav */
 
@@ -108,12 +113,14 @@ footer ul li {
     text-decoration: none;
 }
 
-/* home */
+/*Services*/
 
-#Welcome h1 {
+#servicestable {
 
-    text-align: center;
-    font-style: italic;
+    align-self: center;
+    background-color: #aec6ae;
+    border: none;
+    
 }
 
 /* contact */
