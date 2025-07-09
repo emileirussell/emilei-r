@@ -11,6 +11,10 @@ body {
     padding: 20px;
     min-height: 100vh;
 }
+header .banner img {
+    align-self: center;
+    align-content: center;
+}
 header .banner {
     margin: 10px;
     border-radius: 15px;
