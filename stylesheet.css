@@ -13,7 +13,9 @@ body {
 }
 header {
     max-height: 300px;
-    max-width: max-content;
+    background-color: white;
+    width: auto;
+
 }
 header #banner {
 
