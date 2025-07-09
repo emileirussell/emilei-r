@@ -14,7 +14,26 @@ body {
 }
 /* Nav */
 
+.nav nav {
 
+    background-color: #cecfce;
+}
+
+.nav nav ul {
+
+    list-style-type: none;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.nav nav li {
+
+    margin: 10px;
+}
+.nav nav ul li {
+
+    display: inline-block;
+    margin: 10px;
+}
 
 /* Footer */
 
