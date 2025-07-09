@@ -7,11 +7,12 @@ dark gray: #a8a8a8
 /* Body */
 
 body {
-    background-color: #d1d3d1;
+    background-color: #fafafa;
     padding: 20px;
     min-height: 100vh;
 }
 header .banner {
+    min-width: 1000px;
     margin: 10px;
     border-radius: 15px;
     align-items: center;
