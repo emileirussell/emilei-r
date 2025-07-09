@@ -15,8 +15,11 @@ header .banner {
     margin: 10px;
     border-radius: 15px;
     text-align: center;
-    width: max-content;
     background-color: #aec6ae;
+}
+header {
+    max-height: 300px;
+    max-width: max-content;
 }
 /* Nav */
 
