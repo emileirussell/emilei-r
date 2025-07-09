@@ -4,31 +4,17 @@ green: #aec6ae
 grey: #cecfce
 dark gray: #a8a8a8
 
-*/
+/* Body */
 
-
-
+body {
+    background-color: #aec6ae;
+    padding: 20px;
+    position: relative;
+    min-height: 100vh;
+}
 /* Nav */
 
-header nav ul{
-    font-size: 16px;
-    font-family: 'Times New Roman', Times, serif;
-    list-style: none;
-    color: black;
-    text-align: center;
-}
-header nav li {
-    margin: 10px;
-    color: black;
-}
-header nav ul li {
-    display: inline-block;
-    margin: 10px;
-}
-head img {
-    width: 100vw;
-    height: 50px;
-}
+
 
 /* Footer */
 
@@ -53,30 +39,6 @@ footer ul li {
 
     text-align: center;
     font-style: italic;
-}
-
-#About-Me p {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    text-align: left;
-    display: block;
-    font-size: 12pt;
-    margin-top: 10px;
-    margin-left: 20px;
-    margin-right: auto;
-}
-#About-Me h3 {
-    background-color: #cecfce;
-    text-align: center;
-}
-#About-Me {
-    position: relative;
-}
-
-body {
-    background-color: #aec6ae;
-    padding: 20px;
-    position: relative;
-    min-height: 100vh;
 }
 
 /* contact */
