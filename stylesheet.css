@@ -116,10 +116,12 @@ footer ul li {
 /* contact */
 
 .contactform {
-    text-align: right;
-    align-items: center;
+    text-align: left;
+    align-items: left;
     background-color: #aec6ae;
     box-shadow: inset;
+    width: 500px;
+    border-radius: 15px;
 }
 
 /*Portfolio*/
