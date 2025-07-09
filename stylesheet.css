@@ -42,7 +42,7 @@ header {
 
     margin: 15px;
     margin-top: 10px;
-    size: 16px;
+    font-size: 16px;
     font-family: 'Times New Roman', Times, serif;
     text-decoration: none;
 }
@@ -69,16 +69,34 @@ header {
 }
 
 /* Footer */
-
+footer {
+    background-color: #cecfce;
+    height: 70px;
+    margin: 0px;
+    margin-top: 10px;
+}
 footer ul {
 
      list-style: none;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
-
 footer li {
     margin: 10px;
+    font-size: 16px;
+    text-decoration: none;
+}
+footer li a:hover {
+color:white;
+text-decoration: underline;
+}
+footer li a:active {
+color:black;
+text-decoration: none;
+}
+footer li a:visited {
+color: black;
+text-decoration: none;
 }
 footer ul li {
     display: inline-block;
