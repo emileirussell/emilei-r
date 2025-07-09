@@ -25,7 +25,8 @@ header {
     background-color: #cecfce;
     height: 50px;
     border-radius: 20px;
-    
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .nav nav ul {
