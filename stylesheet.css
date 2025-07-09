@@ -115,14 +115,14 @@ footer ul li {
 
 /*Services*/
 
-#servicestable {
+section #servicestable {
 
     align-self: center;
     background-color: #aec6ae;
     border: none;
     padding: 10px;
 }
-#servicestable th {
+section #servicestable th {
 
     font-size: larger;
 }
