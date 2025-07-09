@@ -11,6 +11,11 @@ body {
     padding: 20px;
     min-height: 100vh;
 }
+#earth {
+size: 50px 50px;
+max-width: 50px;
+max-height: 50px;
+}
 header {
     max-height: 300px;
     background-color: white;
@@ -22,11 +27,6 @@ header img #banner {
     align-self: center;
     margin: 10px;
     margin-bottom: 5px;
-}
-#Welcome h1 {
-
-    text-align: center;
-    font-style: italic;
 }
 
 /* Nav */
