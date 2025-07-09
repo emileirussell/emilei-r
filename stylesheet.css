@@ -115,25 +115,12 @@ footer ul li {
 
 /* contact */
 
-body header h3 {
-    font-family: 'Times New Roman', Times, serif;
+.contactform {
     text-align: center;
-    margin: auto;
+    align-items: center;
+    background-color: #aec6ae;
+    box-shadow: inset;
 }
-body p {
-    display: block;
-    float: left;
-    margin: 20px;
-}
-#GenInq {
-    font-family: 'Times New Roman', Times, serif;
-    float: left;
-}
-#RequServ {
-    font-family: 'Times New Roman', Times, serif;
-    float: right;
-}
-
 /*Portfolio*/
 
 .gallery figure .gal1
