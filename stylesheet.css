@@ -51,7 +51,6 @@ header {
     text-decoration: none;
 }
 .nav nav li a:hover {
-    background-color: #cecfce;
     color:white;
     text-decoration: underline;
 }
@@ -60,7 +59,7 @@ header {
     text-decoration: none;
 }
 .nav nav li a:visited {
-    color: navy;
+    color: black;
     text-decoration: none;
 }
 .nav nav ul li {
