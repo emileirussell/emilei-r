@@ -116,11 +116,12 @@ footer ul li {
 /* contact */
 
 .contactform {
-    text-align: center;
+    text-align: right;
     align-items: center;
     background-color: #aec6ae;
     box-shadow: inset;
 }
+
 /*Portfolio*/
 
 .gallery figure .gal1
