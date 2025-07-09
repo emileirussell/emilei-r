@@ -12,9 +12,11 @@ body {
     min-height: 100vh;
 }
 #earth {
-size: 50px 50px;
-max-width: 50px;
-max-height: 50px;
+size: 150px 300px;
+max-width: 200px;
+max-height: 300px;
+margin: 10px;
+float: left;
 }
 header {
     max-height: 300px;
