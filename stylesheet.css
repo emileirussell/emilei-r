@@ -87,7 +87,8 @@ footer {
     background-color: #cecfce;
     height: 70px;
     margin: 0px;
-    margin-top: 10px;
+    margin-top: 20px;
+    padding-top: 20px;
     position: absolute bottom;
 }
 footer ul {
@@ -98,7 +99,7 @@ footer ul {
     vertical-align:middle;
 }
 footer li {
-    margin: 10px;
+    margin: 20px;
     font-size: 20px;
     text-decoration: none;
 }
@@ -120,7 +121,7 @@ text-decoration: none;
 }
 footer ul li {
     display: inline-block;
-    margin: 10px;
+    margin: 20px;
 }
 
 /*Services*/
