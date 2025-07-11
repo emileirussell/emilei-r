@@ -165,3 +165,14 @@ footer ul li {
 {
     size: 10px;
 }
+
+/*about me*/
+
+#aboutmep {
+
+    margin: 20px;
+    padding: 5px;
+    line-height: 1.5px;
+    background-color: #aec6ae;
+
+}
