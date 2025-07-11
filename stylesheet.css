@@ -173,7 +173,11 @@ div #contactform {
 }
 
 /*about me*/
-
+#aboutmeh3 {
+    text-align: center;
+    margin: 10px;
+    font-size: 40px;
+}
 #aboutmep {
 
     margin: 20px;
