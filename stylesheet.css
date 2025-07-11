@@ -57,7 +57,7 @@ header #banner {
     margin-right: 15px;
     margin-left:15px;
     margin-top: 10px;
-    vertical-align: middle;
+    margin-bottom: 20px;
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
     text-decoration: none;
@@ -148,6 +148,7 @@ footer ul li {
 /* contact */
 
 div #contactform {
+
     text-align: left;
     align-items: center;
     align-content: center;
