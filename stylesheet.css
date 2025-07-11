@@ -161,7 +161,7 @@ body {
   margin: 0;
   padding: 0;
   display: flex;
-  justify-content: center;
+  justify-content:left
   align-items: center;
   min-height: 100vh;
   background-color: #ebebeb;
@@ -169,7 +169,6 @@ body {
 
 .photo-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   gap: 10px;
   width: 90%;
   max-width: 800px;
