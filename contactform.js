@@ -1,29 +1,24 @@
 <link rel="ContactMe" href="ContactMe.html">Form</link>
 
-let fname = document.getElementById('fname');
-console.log(fname);
+const contactform = document.querySelector("#contactform");
 
-let lname = document.getElementById('lname');
-console.log(lname);
+async function sendData() {
+    
+const contactformData = new FormData(contactform);
 
-let contact = document.getElementById('contact');
-console.log("Contact Method");
+try {
+    const reponse = await fetch("https://emileirussell.github.io/emilei-r/ContactMe.html/post", {
+        method: "POST",
 
-let service= document.getElementsByName();
-console.log("Service");
+        body: contactformData,
+    });
+    console.log(await response.json());
+} catch (e) {
+    console.error(e);
+}
+ }
 
-if (fname == "" || lname == "" || contact == ""){
-    alert("Fill out all fields before submitting.")
-} else {
-
-} alert("This form has been submitted successfully");
-
-if (service) {
-
-} else {
-
-    }
-
-contactform.addEventListener("submit", (e) => {
-  e.preventDefault();
-});
+ contactform.addEventListener("submit", (event) => {
+    event.preventDefault();
+    sendData();
+ });
