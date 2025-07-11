@@ -26,7 +26,7 @@ header {
     align-content: center;
 
 }
-#banner {
+header #banner {
 
     text-align: center;
     margin: 10px;
