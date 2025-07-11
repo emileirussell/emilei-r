@@ -175,8 +175,10 @@ div #contactform {
 /*about me*/
 #aboutmeh3 {
     text-align: center;
-    margin: 10px;
+    margin-top: 40px;
     font-size: 40px;
+    background-color: #aec6ae;
+    border-radius: 5px;
 }
 #aboutmep {
 
