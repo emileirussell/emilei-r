@@ -141,11 +141,11 @@ footer ul li {
 
 /* contact */
 
-.contactbody {
+#contactbody {
 
     align-items: center;
 }
-.contactform {
+#contactform {
     text-align: left;
     align-items: center;
     align-content: center;
@@ -158,7 +158,7 @@ footer ul li {
     border-color: black;
     border-style: solid;
 }
-.contactform input .submit {
+input #submit {
 
     border: white;
     background-color: white;
