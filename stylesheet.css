@@ -24,6 +24,7 @@ header {
     background-color: white;
     width: 100%;
     align-content: center;
+    display: flex;
 
 }
 header #banner {
