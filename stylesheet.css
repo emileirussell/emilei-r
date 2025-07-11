@@ -157,15 +157,6 @@ footer ul li {
 
 /*Portfolio*/
 
-body {
-  margin: 0;
-  padding: 0;
-  display: flex;
-  justify-content:left
-  align-items: center;
-  min-height: 100vh;
-  background-color: #ebebeb;
-}
 
 .photo-grid {
   display: grid;
