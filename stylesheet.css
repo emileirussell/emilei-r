@@ -24,7 +24,7 @@ header {
     background-color: white;
     width: 100%;
     align-content: center;
-    display:inline-block;
+    display: inline-block;
 
 }
 header #banner {
@@ -32,6 +32,7 @@ header #banner {
     margin: 10px;
     margin-bottom: 5px;
     align-self: center;
+    text-align: center;
 }
 
 /* Nav */
