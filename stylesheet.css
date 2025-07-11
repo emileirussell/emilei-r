@@ -31,11 +31,12 @@ header {
     margin: 10px;
     margin-bottom: 5px;
 }
-#welcome p {
+.welcome {
 
     font-size: large;
     font-family: 'Times New Roman', Times, serif;
-    float: right;
+    display: flex;
+    align-items: center;
 
 }
 /* Nav */
