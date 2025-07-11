@@ -177,15 +177,14 @@ div #contactform {
 #aboutmeh3 {
     text-align: center;
     margin-top: 40px;
+    margin-bottom: 0px;
     font-size: 40px;
-    background-color: #aec6ae;
     border-radius: 5px;
 }
 #aboutmep {
 
     margin: 20px;
     padding: 10px;
-    background-color: #aec6ae;
     font-size: 20px;
     border-radius: 5px;
 
