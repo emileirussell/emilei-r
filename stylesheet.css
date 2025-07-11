@@ -54,7 +54,8 @@ header #banner {
 }
 .nav nav li {
 
-    margin: 30px;
+    margin-right: 15px;
+    margin-left:15px;
     margin-top: 10px;
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
@@ -79,7 +80,7 @@ header #banner {
 .nav nav ul li {
 
     display: inline-block;
-    margin: 30px;
+    margin: 10px;
 }
 
 /* Footer */
