@@ -161,7 +161,10 @@ footer ul li {
 .contactform input .submit {
 
     border: white;
-    color: white;
+    background-color: white;
+    padding: 5px;
+    margin: 1px;
+    font-size: large;
 }
 
 /*Portfolio*/
