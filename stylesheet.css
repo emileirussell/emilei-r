@@ -24,7 +24,7 @@ header {
     background-color: white;
     width: 100%;
     align-content: center;
-    display: flex;
+    display:inline-block;
 
 }
 header #banner {
@@ -177,7 +177,7 @@ div #contactform {
   max-height: 600px;
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  align-self: left;
+  align-self: center;
 }
 
 /*about me*/
