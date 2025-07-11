@@ -176,7 +176,9 @@ div #contactform {
 #aboutmep {
 
     margin: 20px;
-    padding: 5px;
+    padding: 10px;
     background-color: #aec6ae;
+    font-size: 20px;
+    border-radius: 5px;
 
 }
