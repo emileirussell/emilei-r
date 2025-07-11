@@ -54,9 +54,9 @@ header #banner {
 }
 .nav nav li {
 
-    margin: 15px;
+    margin: 30px;
     margin-top: 10px;
-    font-size: 16px;
+    font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
     text-decoration: none;
 }
@@ -79,7 +79,7 @@ header #banner {
 .nav nav ul li {
 
     display: inline-block;
-    margin: 10px;
+    margin: 30px;
 }
 
 /* Footer */
