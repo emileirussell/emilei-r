@@ -12,7 +12,17 @@ console.log("Contact Method");
 let service= document.getElementsByName();
 console.log("Service");
 
-alert("This form has been submitted successfully");
+if (fname == "" || lname == "" || contact == ""){
+    alert("Fill out all fields before submitting.")
+} else {
+
+} alert("This form has been submitted successfully");
+
+if (service) {
+
+} else {
+
+    }
 
 contactform.addEventListener("submit", (e) => {
   e.preventDefault();
