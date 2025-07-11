@@ -16,6 +16,4 @@ alert("This form has been submitted successfully");
 
 contactform.addEventListener("submit", (e) => {
   e.preventDefault();
-
-  // handle submit
 });
