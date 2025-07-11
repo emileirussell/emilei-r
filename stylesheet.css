@@ -141,6 +141,10 @@ footer ul li {
 
 /* contact */
 
+.contactbody {
+
+    align-items: center;
+}
 .contactform {
     text-align: left;
     align-items: center;
