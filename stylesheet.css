@@ -31,7 +31,13 @@ header {
     margin: 10px;
     margin-bottom: 5px;
 }
+#welcomep p {
 
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    float: right;
+    text-align: center;
+}
 /* Nav */
 
 .nav nav {
