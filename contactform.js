@@ -1,5 +1,3 @@
-<link rel="ContactMe" href="ContactMe.html">Form</link>
-
 const contactform = document.querySelector("#contactform");
 
 async function sendData() {
