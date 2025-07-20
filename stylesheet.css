@@ -145,8 +145,6 @@ footer ul li {
 div #contactform {
 
     text-align: left;
-    align-items: center;
-    align-content: center;
     background-color: #aec6ae;
     width: 500px;
     border-radius: 15px;
@@ -154,7 +152,6 @@ div #contactform {
     border-width: 2px;
     border-color: black;
     border-style: solid;
-    float: none;
 }
 
 /*Portfolio*/
