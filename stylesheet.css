@@ -26,7 +26,7 @@ header {
     display:flex;
 
 }
-#banner {
+header #banner {
 
     margin: 5px;
     margin-bottom: 5px;
