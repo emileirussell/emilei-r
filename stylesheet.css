@@ -151,13 +151,19 @@ footer ul li {
 }
 #servicestable th {
     text-align: center;
-    font-size: larger;
+    font-size: 40px;
 }
 #servicetable td {
 
-    text-align: center;
+    font-size:25px;
 }
+#servicesblurb {
 
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    display: block;
+}
 /* contact */
 
 .contactformcontainer {
