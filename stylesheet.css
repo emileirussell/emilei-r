@@ -41,6 +41,14 @@ border-radius: 5px;
     flex-direction: column;
     align-items: center;
 }
+#servicesblurb {
+
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    display: block;
+    margin-bottom: 0;
+}
 
 /* Nav */
 
@@ -159,14 +167,7 @@ tr td {
     font-size:25px;
     padding: 10px;
 }
-#servicesblurb {
 
-    font-size: 25px;
-    font-family: 'Times New Roman', Times, serif;
-    font-style: italic;
-    display: block;
-    margin-bottom: 0;
-}
 /* contact */
 
 .contactformcontainer {
