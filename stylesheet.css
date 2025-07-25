@@ -5,6 +5,14 @@ grey: #cecfce
 dark gray: #a8a8a8
 
 /* Body */
+.logoheader {
+    max-height: 300px;
+    background-color: white;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
 body {
     background-color: #f1f1f1;
@@ -29,21 +37,13 @@ border-radius: 5px;
 display: flex;
 float: left;
 }
-.logoheader {
-    max-height: 300px;
-    background-color: white;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
 #servicesblurb {
 
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
-    display: block;
     float: right;
+    max-width: 600px;
 }
 
 /* Nav */
