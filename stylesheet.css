@@ -17,6 +17,7 @@ body {
 .welcome {
     display:flexbox;
     justify-content: center;
+
 }
 .welcome p {
 
@@ -31,6 +32,9 @@ body {
 size: 500px 500px;
 max-width: 600px;
 max-height: 600px;
+background-color: #b9c4b9;
+padding: 20px;
+border-radius: 5px;
 }
 .logoheader {
     max-height: 300px;
