@@ -183,7 +183,7 @@ footer ul li {
     border-width: 10px;
     border-color: #9da79d;
     border-style: solid;
-    text-align: left;
+    display: flex;
     align-self: center;
     
 }
