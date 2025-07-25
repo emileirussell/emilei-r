@@ -47,7 +47,9 @@ border-radius: 5px;
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
     display: block;
-    margin-bottom: 0;
+    float: right;
+    display: block;
+    justify-self: center;
 }
 
 /* Nav */
