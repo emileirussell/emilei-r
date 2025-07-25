@@ -174,14 +174,14 @@ footer ul li {
 
 #contactform {
 
-    text-align: center;
     background-color: #b9c4b9;
-    width: 800px;
+    width: auto;
     border-radius: 15px;
     padding: 10px;
     border-width: 2px;
     border-color: black;
     border-style: solid;
+    
 }
 
 #contactform label {
