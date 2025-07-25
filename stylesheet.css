@@ -28,9 +28,9 @@ body {
     font-size: 40px;
 }
 #earth {
-size: 700px 600px;
-max-width: 900px;
-max-height: 900px;
+size: 500px 500px;
+max-width: 600px;
+max-height: 600px;
 margin: 10px;
 }
 .logoheader {
@@ -274,8 +274,8 @@ footer ul li {
 #aboutmep {
 
     margin: 20px;
-    padding: 10px;
-    font-size: 20px;
+    padding: 30px;
+    font-size: 25px;
     border-radius: 5px;
 
 }
