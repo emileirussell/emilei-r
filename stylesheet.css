@@ -88,13 +88,20 @@ margin: 10px;
 }
 
 /* Footer */
+
+.footer {
+    height: 100%;
+}
+
 footer {
     background-color: #cecfce;
     height: 70px;
     margin-bottom: 0px;
     margin-top: 20px;
     padding-top: 20px;
-    position: absolute bottom;
+    position:sticky;
+    top: 100vh;
+    
 }
 footer ul {
 
