@@ -197,7 +197,7 @@ tr td {
     border-width: 10px;
     border-color: #9da79d;
     border-style: solid;
-    
+    margin-bottom: 150px;
     
 }
 
@@ -276,6 +276,7 @@ tr td {
     border-radius: 5px;
     margin-top: 20px;
     justify-items: center;
+    margin-bottom: 150px;
 }
 #aboutmeh3 {
     text-align: center;
@@ -292,4 +293,5 @@ tr td {
     border-radius: 5px;
     max-width: 500px;
     text-align: center;
+
 }
