@@ -184,6 +184,7 @@ footer ul li {
     border-color: #9da79d;
     border-style: solid;
     text-align: left;
+    align-self: center;
     
 }
 
@@ -218,6 +219,7 @@ footer ul li {
     font-size: 15px;
     background-color: #9da79d;
     border: none;
+
 }
 
 /*Portfolio*/
