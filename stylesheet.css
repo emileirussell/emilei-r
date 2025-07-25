@@ -158,10 +158,24 @@ footer ul li {
 
 /* contact */
 
-div #contactform {
+.contactformcontainer {
+
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.contactformcontainer h3 {
+
+    text-align: center;
+    font-size: 40px;
+    margin: 15px;
+}
+
+#contactform {
 
     text-align: left;
-    background-color: #aec6ae;
+    background-color: #b9c4b9;
     width: 500px;
     border-radius: 15px;
     padding: 10px;
