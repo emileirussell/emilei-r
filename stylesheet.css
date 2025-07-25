@@ -210,6 +210,16 @@ footer ul li {
     font-family: 'Times New Roman', Times, serif;
 }
 
+#submit {
+
+    font-family: 'Times New Roman', Times, serif;
+    width: 150px;
+    height: 30px;
+    font-size: 15px;
+    background-color: #9da79d;
+    border: none;
+}
+
 /*Portfolio*/
 
 .photogriddy {
