@@ -20,7 +20,9 @@ body {
 }
 .welcome p {
 
-    align-items: baseline;
+    float: right;
+    display: flex;
+    justify-content: center;
 }
 #earth {
 size: 500px 500px;
