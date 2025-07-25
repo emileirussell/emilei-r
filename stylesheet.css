@@ -172,7 +172,11 @@ div #contactform {
 
 /*Portfolio*/
 
+.photogriddy {
 
+    display: grid;
+    place-items: center;
+}
 .photo-grid {
   display: grid;
   gap: 10px;
