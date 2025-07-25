@@ -174,14 +174,26 @@ footer ul li {
 
 #contactform {
 
-    text-align: left;
+    text-align: center;
     background-color: #b9c4b9;
-    width: 500px;
+    width: 800px;
     border-radius: 15px;
     padding: 10px;
     border-width: 2px;
     border-color: black;
     border-style: solid;
+}
+
+#contactform label {
+
+    font-size: 20px;
+    padding: 5px;
+    font-weight: bold;
+}
+
+#contactform p {
+
+    font-size: 25px;
 }
 
 /*Portfolio*/
