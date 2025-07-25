@@ -160,9 +160,10 @@ footer ul li {
 
 .contactformcontainer {
 
-    display: inline-block;
+    display: flex;
     margin-top: 10px;
-    text-align: center;
+    align-items: center;
+
 }
 
 #needtogetahold {
@@ -177,10 +178,11 @@ footer ul li {
     background-color: #b9c4b9;
     width: auto;
     border-radius: 15px;
-    padding: 10px;
-    border-width: 2px;
-    border-color: black;
+    padding: 40px;
+    border-width: 10px;
+    border-color: #9da79d;
     border-style: solid;
+    text-align: left;
     
 }
 
