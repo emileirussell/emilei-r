@@ -147,13 +147,14 @@ footer ul li {
     background-color: #b9c4b9;
     border: none;
     padding: 10px;
+    margin-bottom: 50px;
     
 }
 #servicestable th {
     text-align: center;
     font-size: 40px;
 }
-#servicetable td {
+#servicetable tr td {
 
     font-size:25px;
 }
