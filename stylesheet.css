@@ -225,6 +225,14 @@ footer ul li {
 
 }
 
+#submit:hover {
+
+    color: #747c74;
+}
+#submit:active {
+
+    color: #616861;
+}
 /*Portfolio*/
 
 .photogriddy {
