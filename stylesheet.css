@@ -24,7 +24,7 @@ body {
     margin-bottom: 150px;
 }
 .welcome {
-    display:flexbox;
+    display:flex;
     justify-content: center;
 
 }
