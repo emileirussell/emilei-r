@@ -199,8 +199,10 @@ footer ul li {
 #fname, #lname, #contact {
 
     border: #b9c4b9;
-    border-radius: 15px;
-    size: 400px 40px;
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+    font-size: 20px;
 }
 
 /*Portfolio*/
