@@ -23,6 +23,9 @@ body {
     float: right;
     display: flex;
     justify-content: center;
+    margin-top: 200px;
+    margin-right: 150px;
+    font-size: 40px;
 }
 #earth {
 size: 500px 500px;
