@@ -161,8 +161,8 @@ footer ul li {
 .contactformcontainer {
 
     display: inline-block;
-    align-items: center;
     margin-top: 10px;
+    text-align: center;
 }
 
 .contactformcontainer h3 {
