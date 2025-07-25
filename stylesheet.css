@@ -196,6 +196,13 @@ footer ul li {
     font-size: 25px;
 }
 
+#fname, #lname, #contact {
+
+    border: #b9c4b9;
+    border-radius: 15px;
+    size: 400px 40px;
+}
+
 /*Portfolio*/
 
 .photogriddy {
