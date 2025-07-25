@@ -147,7 +147,7 @@ footer ul li {
     background-color: #b9c4b9;
     border: none;
     padding: 10px;
-    margin-bottom: 50px;
+    margin-bottom: 150px;
     
 }
 #servicestable th {
@@ -286,5 +286,6 @@ tr td {
     padding: 30px;
     font-size: 25px;
     border-radius: 5px;
+    max-width: 800;
 
 }
