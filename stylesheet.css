@@ -22,11 +22,11 @@ body {
 }
 .welcome p {
 
-    float: right center;
+    float: right;
     display: flex;
     justify-content: center;
     margin-top: 200px;
-    margin-right: 150px;
+    margin-right: 300px;
     font-size: 40px;
 }
 #earth {
