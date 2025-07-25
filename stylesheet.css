@@ -160,7 +160,7 @@ footer ul li {
 
 .contactformcontainer {
 
-    display: flex;
+    display: inline-block;
     align-items: center;
     margin-top: 10px;
 }
