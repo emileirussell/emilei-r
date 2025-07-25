@@ -272,7 +272,8 @@ tr td {
     background-color: #b9c4b9;
     border-radius: 5px;
     margin-top: 20px;
-    text-align: center;
+    display: flex;
+    justify-items: center;
 }
 #aboutmeh3 {
     text-align: center;
@@ -288,5 +289,7 @@ tr td {
     font-size: 25px;
     border-radius: 5px;
     max-width: 500px;
+    text-align: center;
+    justify-self: center;
 
 }
