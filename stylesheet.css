@@ -160,9 +160,11 @@ footer ul li {
 
 .contactformcontainer {
 
-    display: flex;
-    margin-top: 10px;
+    display:flex;
+    justify-content: center;
     align-items: center;
+    margin-top: 10px;
+    
 
 }
 
@@ -183,8 +185,7 @@ footer ul li {
     border-width: 10px;
     border-color: #9da79d;
     border-style: solid;
-    display: flex;
-    align-self: center;
+    
     
 }
 
