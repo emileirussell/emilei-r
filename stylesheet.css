@@ -26,10 +26,11 @@ header {
     display: flex;
     align-items: center;
 }
-.banner {
+.logohead {
 
-    margin: 5px;
-    margin-bottom: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     
 }
 
