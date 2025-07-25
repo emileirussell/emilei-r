@@ -104,10 +104,9 @@ footer {
     margin-bottom: 0px;
     margin-top: 20px;
     padding-top: 20px;
-    position:sticky;
-    top: 100vh;
-    
+    position:sticky;  
 }
+
 footer ul {
 
      list-style: none;
@@ -164,6 +163,7 @@ tr td {
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
     display: block;
+    margin-bottom: 0;
 }
 /* contact */
 
