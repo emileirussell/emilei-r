@@ -179,6 +179,7 @@ div #contactform {
   width: 75%;
   max-width: 800px;
   align-items: center;
+  align-self: center;
 }
 
 .photo img {
