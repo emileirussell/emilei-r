@@ -185,6 +185,7 @@ tr td {
     padding: 15px;
     font-weight: bold;
     line-height: 1.5;
+    text-align: center;
 }
 
 #contactform p {
@@ -200,7 +201,7 @@ tr td {
     height: 40px;
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
-    margin: 5px;
+    margin: 15px;
 }
 
 #blanks {
