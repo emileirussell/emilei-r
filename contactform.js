@@ -69,4 +69,4 @@ fields.forEach((fieldId) => {
 const field = document.getElementById(fieldId);
 field.classList.remove("valid", "invalid");
 });
-}}
+}})
