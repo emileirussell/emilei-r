@@ -110,17 +110,16 @@ footer {
     margin-bottom: 0px;
     margin-top: 20px;
     padding-top: 20px;
-    position:absolute bottom;
 }
 
 footer ul {
 
-     list-style: none;
+    list-style: none;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
 footer li {
-    margin: 30px;
+    margin-right: 20px;
     font-size: 30px;
     text-decoration: none;
 }
