@@ -262,6 +262,7 @@ display: block;
 }
 .photo-grid {
   display: flex;
+  max-width: 80%;
   justify-content: center;
   align-items: center;
   padding: 20px;
