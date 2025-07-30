@@ -204,6 +204,11 @@ tr td {
     margin: 5px;
 }
 
+#blanks {
+
+    text-align: center;
+}
+
 #submit {
 
     font-family: 'Times New Roman', Times, serif;
