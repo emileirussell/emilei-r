@@ -242,6 +242,14 @@ tr td {
 
     color: #616861;
 }
+.error-msg {
+color: red;
+font-size: 0.9em;
+margin-top: 2px;
+margin-bottom: 10px;
+display: block;
+}
+
 /*Portfolio*/
 
 .photogriddy {
