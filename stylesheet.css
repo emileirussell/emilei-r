@@ -258,6 +258,7 @@ display: block;
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 25px;
     margin-top: 20px;
 }
 .photo-grid {
@@ -265,16 +266,20 @@ display: block;
   justify-content: center;
   align-items: center;
   padding: 10px;
+  gap: 20px;
   border-radius: 5px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
 .photo img {
+
+  display: flex; 
+  justify-content: center; 
   width: 80%;
   height: auto;
   max-height: 600px;
-  border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
 /*about me*/
