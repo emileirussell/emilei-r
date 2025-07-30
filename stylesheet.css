@@ -255,15 +255,18 @@ display: block;
 
 .photogriddy {
 
-    display: grid;
-    place-items: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
 }
 .photo-grid {
-  display: grid;
-  gap: 10px;
-  width: 75%;
-  max-width: 800px;
-  align-content: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
 .photo img {
