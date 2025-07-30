@@ -61,7 +61,7 @@ margin-right: 50px;
 .nav nav ul {
 
     list-style-type: none;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: fantasy
     text-align: center;
 }
 .nav nav li {
@@ -71,7 +71,7 @@ margin-right: 50px;
     margin-top: 20px;
     margin-bottom: 20px;
     font-size: 20px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: fantasy;
     text-decoration: none;
 }
 .nav nav li a {
