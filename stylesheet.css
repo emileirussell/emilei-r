@@ -253,8 +253,6 @@ display: block;
 
 /*Portfolio*/
 
-@media (max-width: )
-
 .photogriddysection {
 
     display: flex;
@@ -263,7 +261,8 @@ display: block;
     margin-top: 20px;
 }
 .photo-grid {
-  display: flex;
+  display: grid;
+  width: 80%;
   max-width: 1200px;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   justify-content: center;
