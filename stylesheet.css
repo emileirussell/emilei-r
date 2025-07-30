@@ -289,9 +289,11 @@ display: block;
 
     background-color: #b9c4b9;
     border-radius: 5px;
-    margin-top: 20px;
-    justify-items: center;
-    margin-bottom: 150px;
+    padding: 40px;
+    margin: 40px auto 100px auto;
+    max-width: 800px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+
 }
 #aboutmeh3 {
     text-align: center;
@@ -302,11 +304,9 @@ display: block;
 }
 #aboutmep {
 
-    margin: 20px;
     padding: 30px;
     font-size: 25px;
-    border-radius: 5px;
-    max-width: 500px;
-    text-align: center;
+    text-align: left;
+    line-height: 1.5;
 
 }
