@@ -30,6 +30,11 @@ body {
     justify-content: center;
 
 }
+main {
+    flex: 1;
+    padding: 20px;
+
+}
 
 #earth {
 size: 500px 500px;
