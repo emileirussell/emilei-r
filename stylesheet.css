@@ -105,10 +105,11 @@ nav ul li {
 .footer {
     background-color: #cecfce;
     height: 70px;
-    margin-bottom: 0px;
     margin-top: 20px;
     padding-top: 20px;
     padding: 10px;
+    position: fixed;
+    text-align: center;
 }
 
 .footer-icons {
