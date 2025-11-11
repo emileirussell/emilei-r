@@ -112,6 +112,7 @@ nav ul li {
     margin-top: 20px;
     padding-top: 20px;
     padding: 10px;
+    position: fixed;
 }
 
 .footer-icons {
