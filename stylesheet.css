@@ -108,8 +108,6 @@ nav ul li {
     margin-top: 20px;
     padding-top: 20px;
     padding: 10px;
-    position: fixed;
-    text-align: center;
 }
 
 .footer-icons {
@@ -118,6 +116,7 @@ nav ul li {
     justify-content: center;
     gap: 20px;
     margin-bottom:10px;
+
 }
 
 /*Services*/
