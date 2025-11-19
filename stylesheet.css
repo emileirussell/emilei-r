@@ -5,7 +5,7 @@ grey: #cecfce
 dark gray: #a8a8a8
 
 /* Body */
-.logoheader {
+.header {
     max-height: 500px;
     background-color: #f1f1f1;
     width: 100%;
