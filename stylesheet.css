@@ -28,14 +28,6 @@ body {
 
 }
 
-#services-blurb {
-    font-size: 35px;
-    font-family:"Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif";
-    display: flex;
-    justify-content: center;
-    margin-top: 50px;
-}
-
 main {
     flex: 1;
 
@@ -49,10 +41,10 @@ border-radius: 5px;
 float: left;
 margin-right: 50px;
 }
-#servicesblurb {
+#services-blurb {
 
     font-size: 25px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-style: italic;
     float: right;
     max-width: 600px;
