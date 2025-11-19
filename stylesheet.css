@@ -6,8 +6,6 @@ dark gray: #a8a8a8
 
 /* Body */
 .header {
-    max-height: 500px;
-    background-color: #f1f1f1;
     width: 100%;
     display: flex;
     flex-direction: column;
