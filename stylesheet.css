@@ -133,17 +133,70 @@ nav li a:hover {
 
 /* Contact / forms / portfolio / about */
 .contactformcontainer {
-  display:flex;
+  
+    display:flex;
   justify-content: center;
   align-items: center;
   margin-top: 10px;
 }
-#contactform { background-color: #b9c4b9; width: 650px; border-radius: 15px; padding: 40px; border: 10px solid #9da79d; margin-bottom: 20px; }
-.photogriddysection { display: flex; flex-direction: column; align-items: center; margin-top: 20px; }
-.photo-grid { display: grid; width: 80%; max-width: 1200px; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); padding: 20px; gap: 20px; border-radius: 5px; }
-.photo img { max-width: 100%; max-height: 600px; padding: 10px; background-color: white; border-radius: 5px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
-.aboutme { background-color: #b9c4b9; border-radius: 5px; padding: 40px; margin: 40px auto 100px auto; max-width: 800px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
-#aboutmeh3 { text-align: center; margin-top: 40px; margin-bottom: 0px; font-size: 40px; border-radius: 5px; }
-#aboutmep { padding: 30px; font-size: 25px; text-align: left; line-height: 1.5; }
+#contactform { 
+    
+    background-color: #b9c4b9; 
+    width: 650px; border-radius: 15px; 
+    padding: 40px; border: 10px solid #9da79d; 
+    margin-bottom: 20px; 
+}
+.photogriddysection { 
+    
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    margin-top: 20px; }
+.photo-grid { 
+    
+    display: grid; 
+    width: 80%; 
+    max-width: 1200px; 
+    grid-template-columns: 
+    repeat(auto-fit, minmax(250px, 1fr)); 
+    padding: 20px; gap: 20px; 
+    border-radius: 5px; }
+.photo img { 
+    
+    max-width: 100%; 
+    max-height: 600px; 
+    padding: 10px; 
+    background-color: white; 
+    border-radius: 5px; 
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1); 
+}
+.aboutme { 
+    
+    background-color: #b9c4b9; 
+    border-radius: 5px; 
+    padding: 40px; 
+    margin: 40px auto 100px auto; 
+    max-width: 800px; 
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
+#aboutmeh3 { 
+    
+    text-align: center; 
+    margin-top: 40px; 
+    margin-bottom: 0px; 
+    font-size: 40px; 
+    border-radius: 5px; }
+#aboutmep { 
+    
+    padding: 30px; 
+    font-size: 25px; 
+    text-align: left; 
+    line-height: 1.5; }
 
-.error-msg { color: red; font-size: 0.9em; margin-top: 2px; margin-bottom: 10px; display: block; }
+.error-msg { 
+    
+    color: red; 
+    font-size: 0.9em; 
+    margin-top: 2px; 
+    margin-bottom: 10px; 
+    display: block; 
+}
