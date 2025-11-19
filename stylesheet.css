@@ -14,6 +14,12 @@ dark gray: #a8a8a8
     align-items: center;
 }
 
+.erLogo {
+
+    max-width: 200px;
+    max-height: 200px;
+}
+
 body {
     background-color: #f1f1f1;
     padding: 20px;
