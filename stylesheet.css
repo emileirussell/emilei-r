@@ -31,13 +31,13 @@ main {
 }
 
 #earth {
-size: 500px 500px;
-max-width: 600px;
-max-height: 600px;
+size: 800px 800px;
 border-radius: 5px;
 float: left;
 margin-right: 50px;
+
 }
+
 #services-blurb {
 
     font-size: 25px;
