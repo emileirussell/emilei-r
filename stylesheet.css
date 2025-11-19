@@ -17,12 +17,10 @@ dark gray: #a8a8a8
 body {
     background-color: #f1f1f1;
     padding: 20px;
-    max-height: 100vh;
-    max-width: 100vw;
-    font-size: 16px;
-    margin-bottom: 150px;
+    min-height: 100vh;   
     display: flex;
     flex-direction: column;
+    font-size: 16px;
 }
 .welcome {
     display:flex;
