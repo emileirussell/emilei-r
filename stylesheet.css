@@ -67,7 +67,7 @@ margin-right: 50px;
 .nav nav ul {
 
     list-style-type: none;
-    font-family: 'Times New Roman', Times, serif;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 .nav nav li {
@@ -76,7 +76,7 @@ margin-right: 50px;
     margin-left:20px;
     margin-top: 10px;
     font-size: 22px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-decoration: none;
     font-weight: bold;
 }
@@ -214,7 +214,7 @@ tr td {
     width: 350px;
     height: 40px;
     font-size: 25px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin: 10px;
     justify-items: left;
 }
@@ -231,7 +231,7 @@ tr td {
 
 #submit {
 
-    font-family: 'Times New Roman', Times, serif;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     width: 150px;
     height: 30px;
     font-size: 20px;
