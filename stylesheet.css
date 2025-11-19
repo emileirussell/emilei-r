@@ -25,10 +25,15 @@ body {
 .welcome {
     display:flex;
     justify-content: center;
-    font-size: 35px;
-    font-family: "Optima", "Segoe UI", "Candara", "Calibri", sans-serif;
 
 }
+
+#services-blurb {
+    font-size: 35px;
+    font-family: "Optima", "Segoe UI", "Candara", "Calibri", sans-serif;
+    vertical-align:middle;
+}
+
 main {
     flex: 1;
 
