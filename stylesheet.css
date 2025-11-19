@@ -5,7 +5,9 @@ grey: #cecfce
 dark gray: #a8a8a8
 
 /* Body */
-.header {
+.logoheader {
+    max-height: 500px;
+    background-color: #f1f1f1;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -22,6 +24,7 @@ body {
 }
 .welcome {
     display:flex;
+    justify-content: center;
 
 }
 
@@ -31,13 +34,13 @@ main {
 }
 
 #earth {
-size: 800px 800px;
+size: 500px 500px;
+max-width: 600px;
+max-height: 600px;
 border-radius: 5px;
 float: left;
 margin-right: 50px;
-
 }
-
 #services-blurb {
 
     font-size: 25px;
