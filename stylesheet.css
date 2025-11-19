@@ -18,6 +18,8 @@ dark gray: #a8a8a8
 
     max-width: 200px;
     max-height: 200px;
+    display: flex;
+    justify-self: center;
 }
 
 body {
